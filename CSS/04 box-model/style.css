@@ -1,0 +1,31 @@
+
+.one
+{
+    background-color: aquamarine;
+    width: 400px;
+    padding: 20px;
+    margin: 40px;
+    border: 50px solid teal;
+}
+
+.two{
+    background-color:rgb(253, 238, 72) ;
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    margin: 40px;
+    border: 8px solid hotpink;
+    border-radius: 100%;
+    overflow: hidden;
+    justify-content: center;
+} 
+img{
+    width: 120%;  
+    margin-top: -100px ;
+    margin-bottom: 100px; ;
+    margin-right: -90px;
+    margin-left: -25px ; 
+}
+
+
+

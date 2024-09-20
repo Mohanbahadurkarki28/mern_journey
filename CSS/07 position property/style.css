@@ -1,0 +1,19 @@
+div{
+    position: relative;
+    background-color: chartreuse;
+   
+}
+
+.css-element{
+    background-color: aquamarine;
+    position: absolute;
+    /* top: 5px; */
+}
+li{
+    list-style: none ;
+    top: 50px; 
+}
+.js-element{
+    background-color: darkorange;
+    position: fixed;
+}
