@@ -36,3 +36,5 @@ for (const link of allLinks) {
     link.classList.remove('my-link')
     // link.classList.toggle('my-link')
 }
+
+const firstLink = document.querySelector("body > p:nth-child(5) > a.hii.hello.green-link")
