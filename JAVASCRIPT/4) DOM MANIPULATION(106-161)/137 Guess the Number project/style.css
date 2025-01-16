@@ -1,0 +1,71 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f7f9fc;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .game-container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 400px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .instruction {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .guess-section {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    width: 60%;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #check-btn {
+    background: #007bff;
+    color: white;
+  }
+  
+  #reset-btn {
+    background: #dc3545;
+    color: white;
+    margin-top: 10px;
+  }
+  
+  .message {
+    font-size: 1.2em;
+    color: #007bff;
+  }
+  
+  #hint {
+    color: #888;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
